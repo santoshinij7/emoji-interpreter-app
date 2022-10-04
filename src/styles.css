@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+input {
+  padding: 1rem;
+  width: 80%;
+}
+#emoji {
+  font-size: 2rem;
+  padding: 1rem;
+  cursor: pointer;
+}
+div {
+  background-color: blue;
+  color: whitesmoke;
+  padding: 0.5rem;
+}
